@@ -1,4 +1,4 @@
-# Project
+# Project SUMMARY & RAG CHAT
 
 Hey, I'm Dany! In this project, I propose to build an application that allows you to get the summary of a PDF and ask questions about that summary. This app is powered by a foundation model that runs locally within a Docker container, alongside a RAG (Retrieval-Augmented Generation) solution that uses Chroma as the database for storing embeddings and documents.
 
