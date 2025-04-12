@@ -37,11 +37,19 @@ Passionné par la donnée, l’intelligence artificielle et l’industrialisatio
 - Développement d’une **API dédiée** pour interagir avec le modèle de manière flexible.
 - **Stockage vectoriel** avec ChromaDB pour les embeddings du contenu PDF.
 - Système de **Q&A intelligent** basé sur le contenu PDF grâce à la méthode Retrieval-Augmented Generation (RAG).
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
+### 💬 Conception d'un Chatbot Métier avec LangChain & Redis
+- **Création d'un agent chatbot spécifique à un métier** (par exemple, support client, gestion de données, etc.), conçu pour répondre aux besoins uniques de l'industrie.
+- Utilisation de **LangChain** pour intégrer des **modèles de langage LLM** et lier des outils métiers à l'agent (par exemple, accès à des bases de données internes, API tierces, etc.).
+- **Mémoire persistante** grâce à **Redis** :
+  - Mise en place d’une mémoire **Redis via LangChain** pour permettre au chatbot de se souvenir des interactions précédentes.
+  - Cette approche permet une **conversation continue et contextuellement pertinente** au fil du temps, améliorant l’efficacité du chatbot et de l’expérience utilisateur.
+  - **Amélioration de l’adaptabilité et de la personnalisation** des réponses en fonction des interactions passées avec les utilisateurs.
 ---
 
 ## 📫 Contact
 
-- LinkedIn : [tonlien](https://www.linkedin.com/in/dany-william-tagne-b62231179/)
-- Email : [tonemail@email.com](mailto:danytagne91@gmail.com)
+- LinkedIn : [https://www.linkedin.com/in/dany-william-tagne-b62231179/)]
+- Email : [danytagne91@gmail.com]
 
