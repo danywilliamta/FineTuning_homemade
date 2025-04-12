@@ -2,12 +2,6 @@ Ce chatbot à pour but de permettre à l’utilisateur d’effectuer d’intéra
 
 Il serait intégrés en tant que copilot dans la fenetre de l’utilisateur.
 
-Architecture Implémentation Technique
-
-Open Diagramme vierge (1).png
-Diagramme vierge (1).png
-
-
 🔹 Architecture et Fonctionnement de l'Application
 
 L'interface utilisateur (IHM) est construite à l'aide d'un template XML, avec une dynamisation assurée par un script JavaScript. Ce script gère l'animation de la fenêtre et orchestre l'interaction entre l'utilisateur et le chatbot via des appels JSON-RPC.

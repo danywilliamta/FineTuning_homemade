@@ -18,12 +18,23 @@ Passionné par la donnée, l’intelligence artificielle et l’industrialisatio
 
 ## 💼 Expériences
 
-### 🧪 Développeur Python / Data Scientist – KABAUN (Avril 2023 – Oct 2023)
+### Développeur Python / IA – Infopro Digital (Avril 2024)
+
+- Maintenance et développement d’un logiciel ERP en
+Python.
+- Déploiement de l’application via des images Docker sur
+des serveurs OVH et AWS.
+- Automatisation de tests IHM via la manipulation d’un
+navigateur web piloté par un agent IA.
+- Mise en place de modèle ML pour la clusterisation de
+clients ERP à partir de données comportementales.
+
+### Développeur Python / Data Scientist – KABAUN (Avril 2023 – Oct 2023)
 - Création d’un système de recommandation IA pour l’analyse de facteurs d’impact carbone.
 - Implémentation d'algorithmes de scoring et de calcul de similarité.
 - Conception d’API REST avec FastAPI pour le traitement et l’analyse de données complexes.
 
-### 📺 Data Scientist – SALTO (Sept 2022 – Mars 2023)
+### Data Scientist – SALTO (Sept 2022 – Mars 2023)
 - Développement d’un moteur de recommandation de séries basé sur l’IA.
 - Manipulation et exploitation de données via Firebase.
 - Industrialisation sur GCP (déploiement, automatisation, monitoring).
@@ -37,7 +48,7 @@ Passionné par la donnée, l’intelligence artificielle et l’industrialisatio
 - Développement d’une **API dédiée** pour interagir avec le modèle de manière flexible.
 - **Stockage vectoriel** avec ChromaDB pour les embeddings du contenu PDF.
 - Système de **Q&A intelligent** basé sur le contenu PDF grâce à la méthode Retrieval-Augmented Generation (RAG).
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Publication](https://github.com/danywilliamta/Project/tree/main/IA%20PROJECT/Pdf%20summary)
 
 ### 💬 Conception d'un Chatbot Métier avec LangChain & Redis
 - **Création d'un agent chatbot spécifique à un métier** (par exemple, support client, gestion de données, etc.), conçu pour répondre aux besoins uniques de l'industrie.
@@ -46,10 +57,10 @@ Passionné par la donnée, l’intelligence artificielle et l’industrialisatio
   - Mise en place d’une mémoire **Redis via LangChain** pour permettre au chatbot de se souvenir des interactions précédentes.
   - Cette approche permet une **conversation continue et contextuellement pertinente** au fil du temps, améliorant l’efficacité du chatbot et de l’expérience utilisateur.
   - **Amélioration de l’adaptabilité et de la personnalisation** des réponses en fonction des interactions passées avec les utilisateurs.
+  [Publication](https://github.com/danywilliamta/Project/tree/main/IA%20PROJECT/Chatbot)
 ---
 
 ## 📫 Contact
 
-- LinkedIn : [https://www.linkedin.com/in/dany-william-tagne-b62231179/)]
-- Email : [danytagne91@gmail.com]
-
+- Email : danytagne91@gmail.com
+- LinkedIn : [Link](https://www.linkedin.com/in/dany-william-tagne-b62231179/)
