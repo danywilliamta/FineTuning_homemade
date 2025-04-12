@@ -1,0 +1,9 @@
+Flask
+pydantic
+requests==2.31.0
+langchain
+langchain_openai
+langgraph
+langchain-redis
+redis
+langchain-community
