@@ -50,6 +50,7 @@ clients ERP à partir de données comportementales.
 - Système de **Q&A intelligent** basé sur le contenu PDF grâce à la méthode Retrieval-Augmented Generation (RAG).
 [Publication](https://github.com/danywilliamta/Project/tree/main/IA%20PROJECT/Pdf%20summary)
 
+
 ### 💬 Conception d'un Chatbot Métier avec LangChain & Redis
 - **Création d'un agent chatbot spécifique à un métier** (par exemple, support client, gestion de données, etc.), conçu pour répondre aux besoins uniques de l'industrie.
 - Utilisation de **LangChain** pour intégrer des **modèles de langage LLM** et lier des outils métiers à l'agent (par exemple, accès à des bases de données internes, API tierces, etc.).
@@ -57,6 +58,7 @@ clients ERP à partir de données comportementales.
   - Mise en place d’une mémoire **Redis via LangChain** pour permettre au chatbot de se souvenir des interactions précédentes.
   - Cette approche permet une **conversation continue et contextuellement pertinente** au fil du temps, améliorant l’efficacité du chatbot et de l’expérience utilisateur.
   - **Amélioration de l’adaptabilité et de la personnalisation** des réponses en fonction des interactions passées avec les utilisateurs.
+  [Demo](https://vimeo.com/1080247819)
   [Publication](https://github.com/danywilliamta/Project/tree/main/IA%20PROJECT/Chatbot)
 ---
 
